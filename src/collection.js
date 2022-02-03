@@ -72,7 +72,7 @@ export const svgAttrs = [  // white list of attributes
   'd', 'pathLength',                          // Path
   'x', 'y', 'dx', 'dy', 'glyphRef', 'format',
   'x1', 'y1', 'x2', 'y2',
-  'rotate', 'textLength',
+  'rotate', 'textLength', 'startOffset',
   'cx', 'cy', 'r',
   'rx', 'ry',
   'fx', 'fy',
